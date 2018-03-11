@@ -1,4 +1,4 @@
-#Geocode Address in Spreadsheet
+# Geocode Address in Spreadsheet
 
 Provided a code script to detect address in spreadsheet and output latitude and longitude from it.
 
